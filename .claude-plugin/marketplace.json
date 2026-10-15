@@ -1,0 +1,6 @@
+{
+  "name": "claude-code-xray",
+  "description": "X-ray views of Claude Code: watch the agent loop live, with the real prompt, stream and tool payloads",
+  "owner": { "name": "raultoto" },
+  "plugins": [{ "name": "xray-loop", "source": "./" }]
+}

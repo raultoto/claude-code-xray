@@ -1,0 +1,7 @@
+{
+  "name": "xray-loop",
+  "version": "0.1.0",
+  "description": "X-ray for Claude Code: watch the agent loop live, step by step, with the real prompt, stream and tool payloads, plus a timeline to replay the turn",
+  "author": { "name": "raultotocayo" },
+  "types": "./types/index.d.ts"
+}
