@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/xray-loop.svg" alt="xray-loop: an x-ray of a spark, the agent loop seen from the inside" width="100%">
+  <img src="assets/xray-loop.svg" alt="xray-loop: a pixel creature half way through an x-ray scan, its skeleton showing on one side" width="100%">
 </p>
 
 # xray-loop
@@ -8,7 +8,7 @@
 
 `xray-loop` is a Claude Code mod that opens a pane next to your conversation and shows the agent loop while it runs. It shows the real payloads, not a diagram: the system prompt Claude Code assembled, the messages each request carries, the stream chunk by chunk, every permission verdict, every tool's input and output, and each subagent's own loop. When the turn ends, a timeline lets you replay it.
 
-> Unofficial community project, not affiliated with or endorsed by Anthropic. The x-ray spark is an original illustration.
+> Unofficial community project, not affiliated with or endorsed by Anthropic. The x-rayed pixel creature is fan art in the style of Claude Code's mascot.
 
 ## Install
 
